@@ -3,7 +3,7 @@
 const Navbar = () => {
     return (
         <nav className="navbar navbar-expand-lg bg-body-tertiary">
-            <div className="collapse navbar-collapse">
+            <div className="container-fluid collapse navbar-collapse">
                 <a href="/" className="navbar-brand">Decentralized Voting Platform</a>
                 <ul class="navbar-nav">
                     <li class="nav-item">
